@@ -33,6 +33,8 @@ resolver: lts-13.16
 #  - auto-update
 #  - wai
 packages:
+- Aufgabe1
+- Aufgabe2
 - .
 # Dependency packages to be pulled from upstream that are not in the resolver
 # using the same syntax as the packages field.
